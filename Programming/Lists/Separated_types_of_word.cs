@@ -10,7 +10,8 @@ namespace Remove_bla_bla
     {
         static void Main(string[] args)
         {
-            List<string> text = Console.ReadLine().Split(new char[] {',', ' ', ';', ':', '.', '!', '(', ')', '\"', '\'', '\\', '/', '[', ']' }).ToList();
+            List<string> text = Console.ReadLine().Split(new char[] {',', ' ', ';', ':', '.', '!', \
+                '(', ')', '\"', '\'', '\\', '/', '[', ']' }).ToList();
             text.RemoveAll(x => x == "");
             List<string> lower = new List<string>();
             List<string> upper = new List<string>();
