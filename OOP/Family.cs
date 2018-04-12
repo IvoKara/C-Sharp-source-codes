@@ -16,6 +16,11 @@ namespace Basic_concept
             set { members = value; }
         }
 
+        public void AddMember(Person member)
+        {
+            this.members.Add(member);
+        }
+
         public void PrintAllMembers()
         {
             foreach (var member in members.OrderBy(x => x.Name).ThenBy(x => x.Age))
@@ -31,6 +36,11 @@ namespace Basic_concept
                 if(member.Age >= than)
                     Console.WriteLine($"{member.Name}  - {member.Age}");
             }
+        }
+
+        public Person GetOldestMember()
+        {
+            return members.OrderByDescending(x => x.Age).First();
         }
     }
 }
