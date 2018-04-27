@@ -8,22 +8,11 @@ namespace Exercices
 {
     class Product
     {
-        public readonly string Name;
-        public readonly string Barcode;
-        private double value;
-        private double quantity;
+        public string Name { get; private set; }
+        public string Barcode { get; private set; }
+        public double Value { get; set; }
+        public double Quantity { get; set; }
 
-        public double Value
-        {
-            get { return this.value; }
-            set { this.value = value; }
-        }
-
-        public double Quantity
-        {
-            get { return quantity; }
-            set { quantity = value; }
-        }
         public Product(string name, string barcode)
         {
             this.Name = name;
