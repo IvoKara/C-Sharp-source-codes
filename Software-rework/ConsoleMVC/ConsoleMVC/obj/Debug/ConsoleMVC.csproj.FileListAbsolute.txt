@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\IoT\SoftUni\IT-career\Software rework\Source codes\ConsoleMVC\ConsoleMVC\bin\Debug\ConsoleMVC.exe.config
+C:\Users\user\Desktop\IoT\SoftUni\IT-career\Software rework\Source codes\ConsoleMVC\ConsoleMVC\bin\Debug\ConsoleMVC.exe
+C:\Users\user\Desktop\IoT\SoftUni\IT-career\Software rework\Source codes\ConsoleMVC\ConsoleMVC\bin\Debug\ConsoleMVC.pdb
+C:\Users\user\Desktop\IoT\SoftUni\IT-career\Software rework\Source codes\ConsoleMVC\ConsoleMVC\obj\Debug\ConsoleMVC.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\IoT\SoftUni\IT-career\Software rework\Source codes\ConsoleMVC\ConsoleMVC\obj\Debug\ConsoleMVC.exe
+C:\Users\user\Desktop\IoT\SoftUni\IT-career\Software rework\Source codes\ConsoleMVC\ConsoleMVC\obj\Debug\ConsoleMVC.pdb

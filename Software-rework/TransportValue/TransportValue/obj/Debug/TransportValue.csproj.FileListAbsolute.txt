@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\IoT\SoftUni\IT-career\Software rework\Source codes\TransportValue\TransportValue\bin\Debug\TransportValue.exe.config
+C:\Users\user\Desktop\IoT\SoftUni\IT-career\Software rework\Source codes\TransportValue\TransportValue\bin\Debug\TransportValue.exe
+C:\Users\user\Desktop\IoT\SoftUni\IT-career\Software rework\Source codes\TransportValue\TransportValue\bin\Debug\TransportValue.pdb
+C:\Users\user\Desktop\IoT\SoftUni\IT-career\Software rework\Source codes\TransportValue\TransportValue\obj\Debug\TransportValue.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\IoT\SoftUni\IT-career\Software rework\Source codes\TransportValue\TransportValue\obj\Debug\TransportValue.exe
+C:\Users\user\Desktop\IoT\SoftUni\IT-career\Software rework\Source codes\TransportValue\TransportValue\obj\Debug\TransportValue.pdb
